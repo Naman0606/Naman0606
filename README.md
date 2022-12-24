@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Naman0606
-- 👀 I’m interested in Python programming
+- 👀 I’m interested in Python programming and AI/ML
 - 🌱 I’m currently pursuing IT Engineering 
 - 💞️ I’m looking to collaborate on any interesting projects using python
 - 📫 How to reach me naman06@somaiya.edu
