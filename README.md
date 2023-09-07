@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Naman0606
 - 👀 I’m interested in Python programming and AI/ML
-- 🌱 I’m currently pursuing IT Engineering 
+- 🌱 I’m currently pursuing a MS in Data Science
 - 💞️ I’m looking to collaborate on any interesting projects using python
-- 📫 How to reach me naman06@somaiya.edu
+- 📫 How to reach me namanshah0506@gmail.com
 
 <!---
 Naman0606/Naman0606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
